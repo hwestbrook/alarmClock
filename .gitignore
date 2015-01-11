@@ -1,6 +1,8 @@
 
 credentials/sparkCred.php
 
+credentials/dbCred.php
+
 credentials/weatherCred.php
 
 old/alarmTime.php
